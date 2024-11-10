@@ -1,7 +1,7 @@
 title: <font color="#FF6C0C">Jinghao Cao </font> # your name (or website title) here
 logo: "/images/profile_pic.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <font color="#FF6C0C">von Karman Instructor in Computing and Mathematical Sciences at Caltech </font>
+  <font color="#FF6C0C">von Karman Instructor</font> in Computing and Mathematical Sciences at <font color="#FF6C0C">Caltech</font>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
