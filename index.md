@@ -32,17 +32,29 @@ Unidirectional edge modes in time-modulated metamaterials, H Ammari, J Cao, Proc
 ## <font color="#FF6C0C">Talks, Visits, and Conferences</font>
 
 July 2024 Series of Lectures on Waves and Imaging V, ETH Zurich
+
 July 2024 Modern Perspectives in Applied Mathematics: Theory and Numerics of PDEs, ETH Zurich
+
 July 2024 WAVES Berlin (Germany) Contributed session speaker Symmetry breaking in subwavelength physics
+
 Mar 2024 Bernoullis Tafelrunde, University of Basel (Switzerland) invited speaker Symmetry breaking in subwavelength physics
+
 Mar 2024 Zurich Graduate Colloquium in Applied Mathematics, ETH Zurich (Switzerland) invited speaker Symmetry breaking in subwavelength physics
-August 2023 PDE retreat 2023, Disentis (Switzerland).
+
+August 2023 PDE retreat 2023, Disentis (Switzerland)
+
 July 2024 Mathematical Aspects of Condensed Matter Physics, ETH Zurich (Switzerland)
+
 April 2024 British Applied Mathematics Colloquium, Bristol (UK), invited minisymposium speaker. Wave interaction with subwavelength resonators.
-March 2023 Invited group presentation at Prof. R. Craster's Group, Imperial College London (UK).
+
+March 2023 Invited group presentation at Prof. R. Craster's Group, Imperial College London (UK)
+
 March 2023 CNRS-Imperial Workshop on Waves and Imaging, Imperial College London (UK)
+
 August 2022 UK Metamaterials Network Summer School 2022. Flexible and Electromagnetic Metamaterials, St. Andrews (UK). Invited plenary speaker: Wave interaction with subwavelength resonators
+
 August 2022 PDE retreat 2022, Disentis (Switzerland). Contributed talk on non-reciprocal wave propagation in metamaterials.
-July 2022 Summer School on Computational Mathematics, Gdańsk (Poland).
-June 2022 Mathematical Challenges in Quantum Mechanics, Como (Italy). Contributed talk on non-reciprocal wave propagation in metamaterials.
+July 2022 Summer School on Computational Mathematics, Gdańsk (Poland)
+
+June 2022 Mathematical Challenges in Quantum Mechanics, Como (Italy). Contributed talk on non-reciprocal wave propagation in metamaterials
 
