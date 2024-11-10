@@ -1,7 +1,7 @@
-I am a von Karman Instructor in Computing and Mathematical Sciences at <font color="orange">Caltech</font>. I am advised by Professor [<font color="orange">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
+I am a von Karman Instructor in Computing and Mathematical Sciences at <font color="#FF6C0C">Caltech</font>. I am advised by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 My research is on numerical methods and analysis of PDEs.
 
-Before Caltech, I obtained my doctoral degree in <font color="orange">Applied Mathematics</font> from ETH Zurich in 2024. That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
+Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from ETH Zurich in 2024. That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
 
 ---
 You can reach me at jinghao.cao [at] caltech [dot] edu.
@@ -10,7 +10,7 @@ You can reach me at jinghao.cao [at] caltech [dot] edu.
 
 ---
 
-## <font color="orange">Publications</font> 
+## <font color="#FF6C0C">Publications</font> 
 Mathematical foundations of the non-Hermitian skin effect, H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, Archive for Rational Mechanics and Analysis 248 (3), 33 (2024)
 
 Scattering from time-modulated subwavelength resonators, H Ammari, J Cao, EO Hiltunen, L Rueff, Proceedings of the Royal Society A 480 (2289), 20240177 (2024)
@@ -29,7 +29,7 @@ Unidirectional edge modes in time-modulated metamaterials, H Ammari, J Cao, Proc
 
 
 
-## <font color="orange">Talks, Visits, and Conferences</font>
+## <font color="#FF6C0C">Talks, Visits, and Conferences</font>
 
 July 2024 Series of Lectures on Waves and Imaging V, ETH Zurich
 July 2024 Modern Perspectives in Applied Mathematics: Theory and Numerics of PDEs, ETH Zurich
