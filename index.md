@@ -1,7 +1,7 @@
 I am a von Karman Instructor in Computing and Mathematical Sciences at <font color="#FF6C0C">Caltech</font>. I am mentored by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>.
 
-Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from ETH Zurich in 2024. That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
+Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from ETH Zurich in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
 
 ---
 You can reach me at jinghao.cao [at] caltech [dot] edu.
