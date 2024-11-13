@@ -3,6 +3,8 @@ My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</
 
 Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from ETH Zurich in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
 
+I am fluent in Chinese, English and German.
+
 ---
 You can reach me at jinghao.cao [at] caltech [dot] edu.
  
