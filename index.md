@@ -3,7 +3,7 @@ My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</
 	
 Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#215CAF">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#215CAF">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor is Professor Alessio Figalli. 
 
-Prior to that, I earned my Bachelor (2017-2021) and Master's degree (2020-2021) in Mathematics with distinction from <font color="#215CAF">ETH Zurich</font> with a year abroad (2019-2020) at <font color="#002147">Imperial College London</font> (UK).
+Prior to that, I earned my Bachelor (2017-2021) and Master's degree (2020-2021) in Mathematics with distinction from ETH Zurich with a year abroad (2019-2020) at Imperial College London (UK).
 
 I am fluent in Chinese, English and German. My Chinese name is 曹景皓.
 
