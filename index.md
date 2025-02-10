@@ -1,7 +1,9 @@
 I am a von Karman Instructor in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao). I am mentored by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>.
+	
+Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from [<font color="#215CAF">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor is Professor Alessio Figalli. 
 
-Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from ETH Zurich in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). That is also where I earned my Bachelor and Master's degree in Mathematics with a year abroad at Imperial College London.
+Prior to that, I earned my Bachelor (2017-2021) and Master's degree (2020-2021) in Mathematics with distinction from ETH Zurich with a year abroad (2019-2020) at Imperial College London (UK).
 
 I am fluent in Chinese, English and German. My Chinese name is 曹景皓.
 
