@@ -1,4 +1,4 @@
-I am a von Karman Instructor in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao). I am mentored by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
+I am a [<font color="#FF6C0C">von Karman Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao). I am mentored by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>.
 	
 Before Caltech, I obtained my doctoral degree in <font color="#FF6C0C">Applied Mathematics</font> from [<font color="#215CAF">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor is Professor Alessio Figalli. 
