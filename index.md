@@ -15,21 +15,28 @@ You can reach me at jinghao.cao [at] caltech [dot] edu.
 ---
 
 ## <font color="#FF6C0C">Publications</font> 
-Mathematical foundations of the non-Hermitian skin effect, H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, Archive for Rational Mechanics and Analysis 248 (3), 33 (2024)
-
-Scattering from time-modulated subwavelength resonators, H Ammari, J Cao, EO Hiltunen, L Rueff, Proceedings of the Royal Society A 480 (2289), 20240177 (2024)
-
-Transmission properties of time-dependent one-dimensional metamaterials, H Ammari, J Cao, EO Hiltunen, L Rueff, Journal of Mathematical Physics 64 (12) (2023)
-
-The non-Hermitian skin effect with three-dimensional long-range coupling, H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, P Liu, arXiv preprint arXiv:2311.10521 (2023)
-
-Edge modes in subwavelength resonators in one dimension, H Ammari, S Barandun, J Cao, F Feppon, Multiscale Modeling & Simulation 21 (3), 964-992 (2023)
-
-Transmission properties of space‐time modulated metamaterials, H Ammari, J Cao, X Zeng, Studies in Applied Mathematics 150 (2), 558-581 (2023)
-
-Nonreciprocal wave propagation in space-time modulated media, H Ammari, J Cao, EO Hiltunen, Multiscale Modeling & Simulation 20 (4), 1228-1250 (2022)
-
-Unidirectional edge modes in time-modulated metamaterials, H Ammari, J Cao, Proceedings of the Royal Society A 478 (2265), 20220395 (2022)
+1. O Bruno, J Cao. Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated
+Fourier Filtering. arXiv preprint arXiv:2504.18699, 2025.
+2. J Cao, J Nick. Exceptional point enhanced small particle detection in systems of subwavelength resona-
+tors. arXiv preprint arXiv:2505.01646, 2025.
+3. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, P Liu. The non-Hermitian skin effect with
+three-dimensional long-range coupling. Journal of the European Mathematical Society, 2025.
+4. H Ammari, J Cao, EO Hiltunen, L Rueff. Effective Medium Theory for Time-modulated Subwavelength
+Resonators. arXiv preprint arXiv:2412.13545, 2024.
+5. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen. Mathematical foundations of the non-Hermitian
+skin effect. Archive for Rational Mechanics and Analysis 248 (3), 33, 2024.
+6. H Ammari, J Cao, EO Hiltunen, L Rueff. Scattering from time-modulated subwavelength resonators.
+Proceedings of the Royal Society A 480 (2289), 20240177, 2024.
+7. H Ammari, J Cao, EO Hiltunen, L Rueff. Transmission properties of time-dependent one-dimensional
+metamaterials. Journal of Mathematical Physics 64 (12), 2023.
+8. H Ammari, S Barandun, J Cao, F Feppon. Edge modes in subwavelength resonators in one dimension.
+Multiscale Modeling & Simulation 21 (3), 964-992, 2023.
+9. H Ammari, J Cao, X Zeng. Transmission properties of space-time modulated metamaterials. Studies in
+Applied Mathematics 150 (2), 558-581, 2023.
+10. H Ammari, J Cao, EO Hiltunen. Nonreciprocal wave propagation in space-time modulated media.
+Multiscale Modeling & Simulation 20 (4), 1228-1250, 2022.
+11. H Ammari, J Cao. Unidirectional edge modes in time-modulated metamaterials. Proceedings of the
+Royal Society A 478 (2265), 20220395, 2022.
 
 
 
