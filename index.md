@@ -15,28 +15,39 @@ You can reach me at jinghao.cao [at] caltech [dot] edu.
 ---
 
 ## <font color="#FF6C0C">Publications</font> 
-1. O Bruno, J Cao. Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated
+11. O Bruno, J Cao. Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated
 Fourier Filtering. arXiv preprint arXiv:2504.18699, 2025.
-2. J Cao, J Nick. Exceptional point enhanced small particle detection in systems of subwavelength resona-
+
+10. J Cao, J Nick. Exceptional point enhanced small particle detection in systems of subwavelength resona-
 tors. arXiv preprint arXiv:2505.01646, 2025.
-3. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, P Liu. The non-Hermitian skin effect with
+
+9. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen, P Liu. The non-Hermitian skin effect with
 three-dimensional long-range coupling. Journal of the European Mathematical Society, 2025.
-4. H Ammari, J Cao, EO Hiltunen, L Rueff. Effective Medium Theory for Time-modulated Subwavelength
+
+8. H Ammari, J Cao, EO Hiltunen, L Rueff. Effective Medium Theory for Time-modulated Subwavelength
 Resonators. arXiv preprint arXiv:2412.13545, 2024.
-5. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen. Mathematical foundations of the non-Hermitian
+
+7. H Ammari, S Barandun, J Cao, B Davies, EO Hiltunen. Mathematical foundations of the non-Hermitian
 skin effect. Archive for Rational Mechanics and Analysis 248 (3), 33, 2024.
+
 6. H Ammari, J Cao, EO Hiltunen, L Rueff. Scattering from time-modulated subwavelength resonators.
 Proceedings of the Royal Society A 480 (2289), 20240177, 2024.
-7. H Ammari, J Cao, EO Hiltunen, L Rueff. Transmission properties of time-dependent one-dimensional
+
+5. H Ammari, J Cao, EO Hiltunen, L Rueff. Transmission properties of time-dependent one-dimensional
 metamaterials. Journal of Mathematical Physics 64 (12), 2023.
-8. H Ammari, S Barandun, J Cao, F Feppon. Edge modes in subwavelength resonators in one dimension.
+
+4. H Ammari, S Barandun, J Cao, F Feppon. Edge modes in subwavelength resonators in one dimension.
 Multiscale Modeling & Simulation 21 (3), 964-992, 2023.
-9. H Ammari, J Cao, X Zeng. Transmission properties of space-time modulated metamaterials. Studies in
+
+3. H Ammari, J Cao, X Zeng. Transmission properties of space-time modulated metamaterials. Studies in
 Applied Mathematics 150 (2), 558-581, 2023.
-10. H Ammari, J Cao, EO Hiltunen. Nonreciprocal wave propagation in space-time modulated media.
+
+2. H Ammari, J Cao, EO Hiltunen. Nonreciprocal wave propagation in space-time modulated media.
 Multiscale Modeling & Simulation 20 (4), 1228-1250, 2022.
-11. H Ammari, J Cao. Unidirectional edge modes in time-modulated metamaterials. Proceedings of the
+
+1. H Ammari, J Cao. Unidirectional edge modes in time-modulated metamaterials. Proceedings of the
 Royal Society A 478 (2265), 20220395, 2022.
+
 
 
 
@@ -44,21 +55,35 @@ Royal Society A 478 (2265), 20220395, 2022.
 
 • Southern California Applied Mathematics Symposium Riverside, US
 chair and speaker of a minisymposium, poster evaluator 04/2025
+
 • Teaching Seminar in Mathematics Caltech, US
 invited speaker on innovative teaching using STACK 03/2025
+
 • SIAM Seminar, invited speaker. Caltech, US, 11/2024
+
 • International Conference on Math. and Numerical Aspects of Wave Propagation Berlin, Germany
 contributed presentation 07/2024
+
 • Bernoullis Tafelrunde, invited speaker. University of Basel, Switzerland, 03/2024
+
 • Zurich Graduate Colloquium in Applied Mathematics, invited speaker. Zurich, Switzerland, 03/2024
+
 • PDE Retreat, participant. Disentis, Switzerland, 08/2023
+
 • Mathematical Aspects of Condensed Matter Physics Conference ETH Zurich, Switzerland
 contributed presentation 07/2023
+
 • British Applied Mathematics Colloquium, invited minisymposium speaker. Bristol, UK, 04/2023
+
 • Prof. R. Craster’s Group Seminar, invited group presentation. London, UK, 03/2023
+
 • CNRS–Imperial Workshop on Waves and Imaging, contributed presentation. London, UK, 08/2023
+
 • UK Metamaterials Network Summer School, plenary speaker. St Andrews, UK, 08/2022
+
 • PDE Retreat, contributed presentation. Disentis, Switzerland, 08/2022
+
 • Summer School on Computational Mathematics, participant. Gdańsk, Poland, 07/2022
+
 • Mathematical Challenges in Quantum Mechanics, contributed presentation. Como, Italy, 06/2022
 
