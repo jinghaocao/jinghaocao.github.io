@@ -17,6 +17,10 @@ You can reach me at jinghao.cao [at] caltech [dot] edu.
 ---
 
 ## <font color="#FF6C0C">Publications</font> 
+
+12. J Cao Fourier--Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials
+arXiv preprint arXiv:2605.2325, 2026
+
 11. O Bruno, J Cao. Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated
 Fourier Filtering. arXiv preprint arXiv:2504.18699, 2025.
 
