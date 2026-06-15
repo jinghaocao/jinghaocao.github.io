@@ -26,29 +26,20 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ## Publications
 
-12. J. Cao. *Fourier–Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials*. arXiv preprint arXiv:2605.23251, 2026.
-
-11. H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. *Effective Medium Theory for Time-Modulated Subwavelength Resonators*. SIAM Journal on Applied Mathematics 86 (1), 305–326, 2026.
-
-10. H. Ammari, S. Barandun, J. Cao, B. Davies, E. O. Hiltunen, P. Liu. *The Non-Hermitian Skin Effect with Three-Dimensional Long-Range Coupling*. Journal of the European Mathematical Society, 2025.
-
-9. J. Cao, J. Nick. *Exceptional Point Enhanced Small Particle Detection in Systems of Subwavelength Resonators*. arXiv preprint arXiv:2505.01646, 2025.
-
-8. O. Bruno, J. Cao. *Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated Fourier Filtering*. arXiv preprint arXiv:2504.18699, 2025.
-
-7. H. Ammari, S. Barandun, J. Cao, B. Davies, E. O. Hiltunen. *Mathematical Foundations of the Non-Hermitian Skin Effect*. Archive for Rational Mechanics and Analysis 248 (3), 33, 2024.
-
-6. H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. *Scattering from Time-Modulated Subwavelength Resonators*. Proceedings of the Royal Society A 480 (2289), 20240177, 2024.
-
-5. H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. *Transmission Properties of Time-Dependent One-Dimensional Metamaterials*. Journal of Mathematical Physics 64 (12), 2023.
-
-4. H. Ammari, S. Barandun, J. Cao, F. Feppon. *Edge Modes in Subwavelength Resonators in One Dimension*. Multiscale Modeling & Simulation 21 (3), 964–992, 2023.
-
-3. H. Ammari, J. Cao, X. Zeng. *Transmission Properties of Space-Time Modulated Metamaterials*. Studies in Applied Mathematics 150 (2), 558–581, 2023.
-
-2. H. Ammari, J. Cao, E. O. Hiltunen. *Nonreciprocal Wave Propagation in Space-Time Modulated Media*. Multiscale Modeling & Simulation 20 (4), 1228–1250, 2022.
-
-1. H. Ammari, J. Cao. *Unidirectional Edge Modes in Time-Modulated Metamaterials*. Proceedings of the Royal Society A 478 (2265), 20220395, 2022.
+<ol reversed>
+  <li>J. Cao. <em>Fourier–Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials</em>. arXiv preprint arXiv:2605.23251, 2026.</li>
+  <li>H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. <em>Effective Medium Theory for Time-Modulated Subwavelength Resonators</em>. SIAM Journal on Applied Mathematics 86 (1), 305–326, 2026.</li>
+  <li>H. Ammari, S. Barandun, J. Cao, B. Davies, E. O. Hiltunen, P. Liu. <em>The Non-Hermitian Skin Effect with Three-Dimensional Long-Range Coupling</em>. Journal of the European Mathematical Society, 2025.</li>
+  <li>J. Cao, J. Nick. <em>Exceptional Point Enhanced Small Particle Detection in Systems of Subwavelength Resonators</em>. arXiv preprint arXiv:2505.01646, 2025.</li>
+  <li>O. Bruno, J. Cao. <em>Fast Singular-Kernel Convolution on General Non-Smooth Domains via Truncated Fourier Filtering</em>. arXiv preprint arXiv:2504.18699, 2025.</li>
+  <li>H. Ammari, S. Barandun, J. Cao, B. Davies, E. O. Hiltunen. <em>Mathematical Foundations of the Non-Hermitian Skin Effect</em>. Archive for Rational Mechanics and Analysis 248 (3), 33, 2024.</li>
+  <li>H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. <em>Scattering from Time-Modulated Subwavelength Resonators</em>. Proceedings of the Royal Society A 480 (2289), 20240177, 2024.</li>
+  <li>H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. <em>Transmission Properties of Time-Dependent One-Dimensional Metamaterials</em>. Journal of Mathematical Physics 64 (12), 2023.</li>
+  <li>H. Ammari, S. Barandun, J. Cao, F. Feppon. <em>Edge Modes in Subwavelength Resonators in One Dimension</em>. Multiscale Modeling & Simulation 21 (3), 964–992, 2023.</li>
+  <li>H. Ammari, J. Cao, X. Zeng. <em>Transmission Properties of Space-Time Modulated Metamaterials</em>. Studies in Applied Mathematics 150 (2), 558–581, 2023.</li>
+  <li>H. Ammari, J. Cao, E. O. Hiltunen. <em>Nonreciprocal Wave Propagation in Space-Time Modulated Media</em>. Multiscale Modeling & Simulation 20 (4), 1228–1250, 2022.</li>
+  <li>H. Ammari, J. Cao. <em>Unidirectional Edge Modes in Time-Modulated Metamaterials</em>. Proceedings of the Royal Society A 478 (2265), 20220395, 2022.</li>
+</ol>
 
 ---
 
