@@ -26,8 +26,6 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ## Publications
 
-## Publications
-
 12. J. Cao. *Fourier–Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials*. arXiv preprint arXiv:2605.23251, 2026.
 
 11. H. Ammari, J. Cao, E. O. Hiltunen, L. Rueff. *Effective Medium Theory for Time-Modulated Subwavelength Resonators*. SIAM Journal on Applied Mathematics 86 (1), 305–326, 2026.
