@@ -12,7 +12,7 @@ Before Caltech, I obtained my doctoral degree in Applied Mathematics from [ETH Z
 
 Prior to that, I earned my Bachelor's (2017–2021) and Master's (2021–2022) degrees in Mathematics with distinction from ETH Zurich, including a year abroad (2019–2020) at Imperial College London (UK).
 
-I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cao Jinghao).
+I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo Jǐng Hào).
 
 ---
 
