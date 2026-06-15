@@ -1,7 +1,7 @@
 I am a [<font color="#FF6C0C">von Karman Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao). I am hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>.
 
-This Septemeber I am joining Imperial College London as a [<font color="#02137E">Borland Fellow</font>](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships) mentored by [<font color="#02137E">Richard Craster</font>](https://people.math.ethz.ch/~hammari/](https://profiles.imperial.ac.uk/r.craster).
+This Septemeber I am joining Imperial College London as a [<font color="#02137E">Borland Fellow</font>](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships) mentored by [<font color="#02137E">Richard Craster</font>](https://people.math.ethz.ch/~hammari/](https://profiles.imperial.ac.uk/r.craster ).
 
 Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#215CAF">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#215CAF">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor is Professor Alessio Figalli. 
 
