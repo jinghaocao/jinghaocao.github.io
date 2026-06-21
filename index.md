@@ -2,7 +2,7 @@
 
 ## <font color="#FF6C0C">News</font>
 
-**Starting September 2026**, I will be joining Imperial College London as a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships), mentored by [Richard Craster](https://profiles.imperial.ac.uk/r.craster).
+**Starting September 2026**, I will be joining Imperial College London as a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships), mentored by Professor [Richard Craster](https://profiles.imperial.ac.uk/r.craster).
 
 ---
 
