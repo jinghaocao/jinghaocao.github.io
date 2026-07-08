@@ -8,13 +8,14 @@
 
 I am a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno).
 
-My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>.
-
 Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#FF6C0C">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor was Professor Alessio Figalli.
 
 Prior to that, I earned my Bachelor's (2017–2021) and Master's (2021–2022) degrees in Mathematics with distinction from ETH Zurich, including a year abroad (2019–2020) at Imperial College London (UK).
 
 I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo Jǐng Hào).
+---
+
+My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>. My research interest inlcudes the design of advanced metamaterials through a combination of mathematical theory and computation. Building on a background from ETH, I utilize the asymptotic analysis of partial differential equations to model wave behavior in metamaterials. Additionally, my work at Caltech leverages fast singular-kernel solvers to handle irregular domains and complex geometries efficiently. My research vision is to extend these analytical models into realistic, large-scale computational pipelines for next-generation metamaterial design.
 
 ---
 
@@ -40,7 +41,17 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
   <li>H. Ammari, J. Cao, E. O. Hiltunen. <em>Nonreciprocal Wave Propagation in Space-Time Modulated Media</em>. Multiscale Modeling & Simulation 20 (4), 1228–1250, 2022.</li>
   <li>H. Ammari, J. Cao. <em>Unidirectional Edge Modes in Time-Modulated Metamaterials</em>. Proceedings of the Royal Society A 478 (2265), 20220395, 2022.</li>
 </ol>
+---
 
+## <font color="#FF6C0C">Teaching Experiences</font>
+
+- Introductory Methods of Applied Mathematics, Instructor. California Institute of Technology, US, Spring 2025/ Spring 2026
+  (awarded Caltech Innovation in Education Fund. (~ 100k USD, co-PI with [<font color="#FF6C0C">Prof. Franca Hoffmann</font>](https://www.eas.caltech.edu/people/franca-hoffmann))
+- Mathematical and Computational Methods for Wave Propagation, Instructor. California Institute of Technology, US, Fall 2025
+- Linear Algebra for Civil Engineering, Head assistant and deputy lecturer. ETH Zurich, Switzerland, Fall 2022
+- Numerical Methods for Computer Science, Head assistant and deputy lecturer. ETH Zurich, Switzerland, Fall 2021
+- Numerical Methods for Computational Science and Engineering, Head assistant. ETH Zurich, Switzerland, Fall 2021
+- Numerical Mathematics I, Teaching assistant. ETH Zurich, Switzerland, Fall 2019
 ---
 
 ## <font color="#FF6C0C">Talks, Visits, and Conferences</font>
