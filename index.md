@@ -24,7 +24,7 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ---
 
-## <font color="#FF6C0C">Publications</font>
+## <font color="#FF6C0C">Publications and Preprints</font>
 
 <ol reversed>
   <li>J. Cao. <em>Fourier–Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials</em>. arXiv preprint arXiv:2605.23251, 2026.</li>
@@ -45,29 +45,20 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ## <font color="#FF6C0C">Talks, Visits, and Conferences</font>
 
-**<font color="#FF6C0C">2026</font>**
+- International Conference on Mathematical and Numerical Aspects of Wave Propagation, contributed presentation. Montreal, Canada, 06/2026
 - UK Metamaterial Network Seminar, invited speaker. UK, 05/2026
 - Applied Mathematics Seminar, invited speaker. Hunter College, New York, US, 04/2026
-
-**<font color="#FF6C0C">2025</font>**
 - Special Topics Seminar, invited speaker. ETH Zurich, Switzerland, 05/2025
 - Southern California Applied Mathematics Symposium, chair and speaker of a minisymposium, poster evaluator. Riverside, US, 04/2025
 - Teaching Seminar in Mathematics, invited speaker on innovative teaching using STACK. Caltech, US, 03/2025
-
-**<font color="#FF6C0C">2024</font>**
 - SIAM Seminar, invited speaker. Caltech, US, 11/2024
 - International Conference on Mathematical and Numerical Aspects of Wave Propagation, contributed presentation. Berlin, Germany, 07/2024
 - Bernoulli's Tafelrunde, invited speaker. University of Basel, Switzerland, 03/2024
 - Zurich Graduate Colloquium in Applied Mathematics, invited speaker. Zurich, Switzerland, 03/2024
-
-**<font color="#FF6C0C">2023</font>**
 - PDE Retreat, participant. Disentis, Switzerland, 08/2023
 - CNRS–Imperial Workshop on Waves and Imaging, contributed presentation. London, UK, 08/2023
 - Mathematical Aspects of Condensed Matter Physics Conference, contributed presentation. ETH Zurich, Switzerland, 07/2023
 - British Applied Mathematics Colloquium, invited minisymposium speaker. Bristol, UK, 04/2023
-- Prof. R. Craster's Group Seminar, invited group presentation. London, UK, 03/2023
-
-**<font color="#FF6C0C">2022</font>**
 - UK Metamaterials Network Summer School, plenary speaker. St Andrews, UK, 08/2022
 - PDE Retreat, contributed presentation. Disentis, Switzerland, 08/2022
 - Summer School on Computational Mathematics, participant. Gdańsk, Poland, 07/2022
