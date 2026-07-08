@@ -13,6 +13,7 @@ Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font
 Prior to that, I earned my Bachelor's (2017–2021) and Master's (2021–2022) degrees in Mathematics with distinction from ETH Zurich, including a year abroad (2019–2020) at Imperial College London (UK).
 
 I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo Jǐng Hào).
+
 ---
 
 My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>. My research interest inlcudes the design of advanced metamaterials through a combination of mathematical theory and computation. Building on a background from ETH, I utilize the asymptotic analysis of partial differential equations to model wave behavior in metamaterials. Additionally, my work at Caltech leverages fast singular-kernel solvers to handle irregular domains and complex geometries efficiently. My research vision is to extend these analytical models into realistic, large-scale computational pipelines for next-generation metamaterial design.
@@ -41,6 +42,7 @@ My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</
   <li>H. Ammari, J. Cao, E. O. Hiltunen. <em>Nonreciprocal Wave Propagation in Space-Time Modulated Media</em>. Multiscale Modeling & Simulation 20 (4), 1228–1250, 2022.</li>
   <li>H. Ammari, J. Cao. <em>Unidirectional Edge Modes in Time-Modulated Metamaterials</em>. Proceedings of the Royal Society A 478 (2265), 20220395, 2022.</li>
 </ol>
+
 ---
 
 ## <font color="#FF6C0C">Teaching Experiences</font>
