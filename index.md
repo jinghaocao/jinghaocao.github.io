@@ -5,7 +5,7 @@ I am a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportun
 ---
 Previously, I was a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 
-Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#FF6C0C">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor was Professor Alessio Figalli.
+Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#003E74">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#003E74">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor was Professor Alessio Figalli.
 
 Prior to that, I earned my Bachelor's (2017–2021) and Master's (2021–2022) degrees in Mathematics with distinction from ETH Zurich, including a year abroad (2019–2020) at Imperial College London (UK).
 
