@@ -1,12 +1,9 @@
 <title>Jinghao Cao | Instructor at Caltech</title>
 
-## <font color="#FF6C0C">News</font>
-
-**Starting September 2026**, I will be joining Imperial College London as a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships), mentored by Professor [Richard Craster](https://profiles.imperial.ac.uk/r.craster).
+I am a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships) in Applied Mathematics and Mathematical Physics at Imperial College London. My fellowship host is Professor [Richard Craster](https://profiles.imperial.ac.uk/r.craster). I working on scientific computing and analysis of partial differential equations targeting emergent areas of mathematical physics such as metamaterials.
 
 ---
-
-I am a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno).
+Previously, I was a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>](https://www.cms.caltech.edu/people/jinghao-cao), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 
 Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#FF6C0C">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#FF6C0C">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor was Professor Alessio Figalli.
 
@@ -16,17 +13,13 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ---
 
-My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</font>. My research interest inlcudes the design of advanced metamaterials through a combination of mathematical theory and computation. Building on a background from ETH, I utilize the asymptotic analysis of partial differential equations to model wave behavior in metamaterials. Additionally, my work at Caltech leverages fast singular-kernel solvers to handle irregular domains and complex geometries efficiently. My research vision is to extend these analytical models into realistic, large-scale computational pipelines for next-generation metamaterial design.
-
----
-
 **Contact:** jinghao.cao [at] caltech [dot] edu
 
-[<font color="orange">Google Scholar</font>](https://scholar.google.com/citations?user=Hp5IpFcAAAAJ) · [<font color="orange">LinkedIn</font>](https://www.linkedin.com/in/jinghaocao)
+[<font color="#003E74">Google Scholar</font>](https://scholar.google.com/citations?user=Hp5IpFcAAAAJ) · [<font color="#003E74">LinkedIn</font>](https://www.linkedin.com/in/jinghaocao)
 
 ---
 
-## <font color="#FF6C0C">Publications and Preprints</font>
+## <font color="#003E74">Publications and Preprints</font>
 
 <ol reversed>
   <li>J. Cao. <em>Fourier–Galerkin Methods for Subwavelength Resonances in 2D Acoustic Metamaterials</em>. arXiv preprint arXiv:2605.23251, 2026.</li>
@@ -45,7 +38,7 @@ My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</
 
 ---
 
-## <font color="#FF6C0C">Teaching Experiences</font>
+## <font color="#003E74">Teaching Experiences</font>
 
 - Introductory Methods of Applied Mathematics, Instructor. California Institute of Technology, US, Spring 2025/ Spring 2026
   (awarded Caltech Innovation in Education Fund. (~ 100k USD, co-PI with [<font color="#FF6C0C">Prof. Franca Hoffmann</font>](https://www.eas.caltech.edu/people/franca-hoffmann))
@@ -57,7 +50,7 @@ My research is on <font color="#FF6C0C">numerical methods and analysis of PDEs</
   
 ---
 
-## <font color="#FF6C0C">Talks, Visits, and Conferences</font>
+## <font color="#003E74">Talks, Visits, and Conferences</font>
 
 - International Conference on Mathematical and Numerical Aspects of Wave Propagation, contributed presentation. Montreal, Canada, 06/2026
 - UK Metamaterial Network Seminar, invited speaker. UK, 05/2026
