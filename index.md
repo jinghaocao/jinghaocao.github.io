@@ -3,7 +3,7 @@
 I am a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships) in Applied Mathematics and Mathematical Physics at Imperial College London. My fellowship host is Professor [Richard Craster](https://profiles.imperial.ac.uk/r.craster). I working on scientific computing and analysis of partial differential equations targeting emergent areas of mathematical physics such as metamaterials.
 
 ---
-Previously, I was a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at [<font color="#FF6C0C">Caltech</font>] (2024-2026), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
+Previously, I was a [<font color="#FF6C0C">von Kármán Instructor</font>](https://www.cms.caltech.edu/about/positions/vonkarman) in Computing and Mathematical Sciences at <font color="#FF6C0C">Caltech</font> (2024-2026), hosted by Professor [<font color="#FF6C0C">Oscar Bruno</font>](https://www.cms.caltech.edu/people/obruno). 
 
 Before Caltech, I obtained my doctoral degree in Applied Mathematics from [<font color="#003E74">ETH Zurich</font>](https://math.ethz.ch/news-and-events/news/d-math-news/2024/05/doctoral-exam-of-jinghao-cao.html) (Switzerland) in 2024, supervised by Professor [<font color="#003E74">Habib Ammari</font>](https://people.math.ethz.ch/~hammari/). My second advisor was Professor Alessio Figalli.
 
