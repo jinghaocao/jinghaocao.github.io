@@ -13,7 +13,7 @@ I am fluent in Chinese, English, and German. My Chinese name is 曹景皓 (Cáo 
 
 ---
 
-**Contact:** jinghao.cao [at] caltech [dot] edu
+**Contact:** jinghao.cao19@imperial.ac.uk
 
 [<font color="#003E74">Google Scholar</font>](https://scholar.google.com/citations?user=Hp5IpFcAAAAJ) · [<font color="#003E74">LinkedIn</font>](https://www.linkedin.com/in/jinghaocao)
 
