@@ -1,4 +1,4 @@
-<title>Jinghao Cao | Instructor at Caltech</title>
+<title>Jinghao Cao | Research Fellow at Imperial</title>
 
 I am a [Borland Fellow](https://www.imperial.ac.uk/mathematics/research/opportunities/robert-borland-fellowships) in Applied Mathematics and Mathematical Physics at Imperial College London. My fellowship host is Professor [Richard Craster](https://profiles.imperial.ac.uk/r.craster). I working on scientific computing and analysis of partial differential equations targeting emergent areas of mathematical physics such as metamaterials.
 
